@@ -1,4 +1,4 @@
 @Library('DP_shared-library@main') _
 
-env.COMPONENT="shipping"
+env.COMPONENT="DP_shipping"
 maven()
